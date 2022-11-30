@@ -2,7 +2,7 @@
 
 module.exports = {
     google: {
-        appId: '1234567890-abc.apps.googleusercontent.com',
+        appId: '536279923900-3m19sfefqf26jgiuam32q1cofejfmqf9.apps.googleusercontent.com',
         callback: 'com.reactnativesimpleauth:/oauth2redirect',
     },
     facebook: {
